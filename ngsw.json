@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1673992261301,
-  "index": "https://danielg07.github.io/angular_tour_of_heroes/index.html",
+  "timestamp": 1674674844923,
+  "index": "https://danielg07.github.io/angular_tour_of_heroes/dashboard/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://danielg07.github.io/angular_tour_of_heroes/favicon.ico",
-        "https://danielg07.github.io/angular_tour_of_heroes/index.html",
-        "https://danielg07.github.io/angular_tour_of_heroes/main.c79802394799eaff.js",
-        "https://danielg07.github.io/angular_tour_of_heroes/manifest.webmanifest",
-        "https://danielg07.github.io/angular_tour_of_heroes/polyfills.072a159de548ac67.js",
-        "https://danielg07.github.io/angular_tour_of_heroes/runtime.6e50dac17b84e715.js",
-        "https://danielg07.github.io/angular_tour_of_heroes/styles.ef46db3751d8e999.css"
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/favicon.ico",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/index.html",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/main.7039df06eb30cb77.js",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/manifest.webmanifest",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/polyfills.072a159de548ac67.js",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/runtime.6e50dac17b84e715.js",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-128x128.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-144x144.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-152x152.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-192x192.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-384x384.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-512x512.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-72x72.png",
-        "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-96x96.png"
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-128x128.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-144x144.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-152x152.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-192x192.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-384x384.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-512x512.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-72x72.png",
+        "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://danielg07.github.io/angular_tour_of_heroes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://danielg07.github.io/angular_tour_of_heroes/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://danielg07.github.io/angular_tour_of_heroes/index.html": "3bf892776198a81d2080a12efdecdb50627654aa",
-    "https://danielg07.github.io/angular_tour_of_heroes/main.c79802394799eaff.js": "77de3c02f546bf5f3511bbef9c639abc797887ba",
-    "https://danielg07.github.io/angular_tour_of_heroes/manifest.webmanifest": "2d309fbf233c54da58ae8b281f79d3543c6f74db",
-    "https://danielg07.github.io/angular_tour_of_heroes/polyfills.072a159de548ac67.js": "5a383b50fca4ad71578f27edb947c10e8adbf6e6",
-    "https://danielg07.github.io/angular_tour_of_heroes/runtime.6e50dac17b84e715.js": "b06bd254bf39cd3d927bdbe45eba69faf79086e8",
-    "https://danielg07.github.io/angular_tour_of_heroes/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/index.html": "7e54d42efe808d604881deb2d76dcb3dbcf97b96",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/main.7039df06eb30cb77.js": "0266e46a25b52cc9dae0eaad5d53c005a0a46141",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/manifest.webmanifest": "2d309fbf233c54da58ae8b281f79d3543c6f74db",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/polyfills.072a159de548ac67.js": "5a383b50fca4ad71578f27edb947c10e8adbf6e6",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/runtime.6e50dac17b84e715.js": "b06bd254bf39cd3d927bdbe45eba69faf79086e8",
+    "https://danielg07.github.io/angular_tour_of_heroes/dashboard/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
